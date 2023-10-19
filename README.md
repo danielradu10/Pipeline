@@ -1,2 +1,2 @@
 # Pipeline
-I implemented a pipeline processor in Verilog without the Hazard Detection or the Forwarding Unit.
+I implemented a pipelined processor in Verilog without the Hazard Detection or the Forwarding Unit.
